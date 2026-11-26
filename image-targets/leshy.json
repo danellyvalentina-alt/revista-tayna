@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/leshy_luminance.png",
+  "resources": {
+    "originalImage": "leshy_original.png",
+    "croppedImage": "leshy_cropped.png",
+    "thumbnailImage": "leshy_thumbnail.png",
+    "luminanceImage": "leshy_luminance.png"
+  },
+  "name": "leshy",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 58,
+    "left": 0,
+    "width": 528,
+    "height": 704,
+    "isRotated": true,
+    "originalWidth": 528,
+    "originalHeight": 820
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795668898805,
+  "updated": 1795668898805
+}

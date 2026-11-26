@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/babayaga_luminance.png",
+  "resources": {
+    "originalImage": "babayaga_original.png",
+    "croppedImage": "babayaga_cropped.png",
+    "thumbnailImage": "babayaga_thumbnail.png",
+    "luminanceImage": "babayaga_luminance.png"
+  },
+  "name": "babayaga",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 4,
+    "left": 0,
+    "width": 1194,
+    "height": 1592,
+    "isRotated": false,
+    "originalWidth": 1194,
+    "originalHeight": 1600
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795669033465,
+  "updated": 1795669033465
+}

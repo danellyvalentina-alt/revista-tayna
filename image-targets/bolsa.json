@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/bolsa_luminance.png",
+  "resources": {
+    "originalImage": "bolsa_original.png",
+    "croppedImage": "bolsa_cropped.png",
+    "thumbnailImage": "bolsa_thumbnail.png",
+    "luminanceImage": "bolsa_luminance.png"
+  },
+  "name": "bolsa",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 7,
+    "width": 492,
+    "height": 656,
+    "isRotated": false,
+    "originalWidth": 506,
+    "originalHeight": 656
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795669080821,
+  "updated": 1795669080821
+}
